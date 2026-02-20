@@ -1,5 +1,6 @@
-# Mensajeria
+Mensajeria.
 Sistema de escritorio hecha con python para enviar correos (etapa inicial)
+
 # Aplicacion de Mensajeria MIME para la materia de Servicos Telematicos
 
 ## Librerias necesrias 
